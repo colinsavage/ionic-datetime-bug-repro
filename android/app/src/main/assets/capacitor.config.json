@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DateTest",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
