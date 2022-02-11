@@ -16,7 +16,7 @@ const Home: React.FC = () => {
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer />
+        
         <IonDatetime></IonDatetime>
       </IonContent>
     </IonPage>

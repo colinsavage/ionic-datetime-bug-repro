@@ -1,5 +1,5 @@
 {
-  "name": "DateTest",
+  "name": "myApp",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -9,8 +9,8 @@
     "@capacitor/haptics": "1.1.4",
     "@capacitor/keyboard": "1.2.2",
     "@capacitor/status-bar": "1.0.8",
-    "@ionic/react": "^6.0.7",
-    "@ionic/react-router": "^6.0.7",
+    "@ionic/react": "^6.0.0",
+    "@ionic/react-router": "^6.0.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
@@ -21,7 +21,6 @@
     "@types/react-router": "^5.1.11",
     "@types/react-router-dom": "^5.1.7",
     "ionicons": "^5.4.0",
-    "jetifier": "^2.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router": "^5.2.0",
